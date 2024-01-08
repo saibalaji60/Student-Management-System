@@ -1,0 +1,3 @@
+======================Registration========================
+   ♦ 1. Account name is Between 3 and 6 letters long
+   ♦ 2. Account name's first lettermust be capitalized
